@@ -1,0 +1,9 @@
+// ATTENTION - THIS DIRECTORY CONTAINS THIRD PARTY OPEN SOURCE MATERIALS:
+
+[{
+	"name": "maximetinu/sublime-monokai-theme-colorizer",
+	"version": "0.1.0",
+	"license": "UNLICENSED",
+	"repositoryURL": "https://github.com/Maximetinu/Sublime-Text-Monokai-theme-for-Visual-Studio-Code",
+	"description": "Actual, perfect and identical Monokai Sublime Text Theme for Visual Studio Code and C# colorizer to make it possible"
+}]
