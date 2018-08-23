@@ -18,7 +18,7 @@
                 "path": "./themes/sublime-monokai-color-theme.json"
             },
             {
-                "label": "Sublime Monokai Light 2",
+                "label": "Sublime Monokai Light",
                 "uiTheme": "vs",
                 "path": "./themes/sublime-monokai-theme-light.json"
             }
