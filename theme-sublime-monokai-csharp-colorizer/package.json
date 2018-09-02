@@ -20,7 +20,7 @@
             {
                 "label": "Sublime Monokai Light",
                 "uiTheme": "vs",
-                "path": "./themes/sublime-monokai-theme-light.json"
+                "path": "./themes/sublime-monokai-color-theme-light.json"
             }
         ],
         "languages": [
