@@ -16,6 +16,11 @@
                 "label": "Sublime Monokai",
                 "uiTheme": "vs-dark",
                 "path": "./themes/sublime-monokai-color-theme.json"
+            },
+            {
+                "label": "Sublime Monokai Light",
+                "uiTheme": "vs",
+                "path": "./themes/sublime-monokai-color-theme-light.json"
             }
         ],
         "languages": [

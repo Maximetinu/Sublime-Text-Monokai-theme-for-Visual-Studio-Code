@@ -20,6 +20,6 @@ Observe the differences. Is subtle but it's there.
 
 ![Default VSCode Monokai vs Sublime Text's](/screenshots/default-monokai-vs-sublime-text.png?raw=true "Default VSCode Monokai vs Sublime Text's")
 
-**Why override C# parser/colorizer if it's a theme? Keep reading [the repo](https://github.com/Maximetinu/Identical-Sublime-Text-Monokai-theme-for-Visual-Studio-Code)**
+**Why override C# parser/colorizer if it's a theme? Keep reading [the repo](https://github.com/Maximetinu/Sublime-Text-Monokai-theme-for-Visual-Studio-Code)**
 
 **Happy coding!** now with Monokai ;)
