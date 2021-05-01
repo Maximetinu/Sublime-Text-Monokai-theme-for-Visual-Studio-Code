@@ -1,55 +1,56 @@
 {
-    "name": "identical-sublime-monokai-csharp-theme-colorizer",
-    "displayName": "Identical Sublime Monokai C# theme and colorizer",
-    "version": "0.10.0",
-    "publisher": "maximetinu",
-    "repositoryURL": "https://github.com/Maximetinu/Sublime-Text-Monokai-theme-for-Visual-Studio-Code",
-    "repository": "https://github.com/Maximetinu/Sublime-Text-Monokai-theme-for-Visual-Studio-Code",
-    "galleryBanner.color": "#A6E22E",
-    "icon": "icon.png",
-    "engines": {
-        "vscode": "*"
-    },
-    "contributes": {
-        "themes": [
-            {
-                "label": "Sublime Monokai",
-                "uiTheme": "vs-dark",
-                "path": "./themes/sublime-monokai-color-theme.json"
-            },
-            {
-                "label": "Sublime Monokai Light",
-                "uiTheme": "vs",
-                "path": "./themes/sublime-monokai-color-theme-light.json"
-            }
-        ],
-        "languages": [
-            {
-                "id": "csharp",
-                "extensions": [
-                    ".cs",
-                    ".csx",
-                    ".cake"
-                ],
-                "aliases": [
-                    "C# Sublime Colorizer",
-                    "csharp"
-                ],
-                "configuration": "./language-configuration.json"
-            }
-        ],
-        "grammars": [
-            {
-                "language": "csharp",
-                "scopeName": "source.cs",
-                "path": "./syntaxes/csharp.tmLanguage.json"
-            }
-        ],
-        "snippets": [
-            {
-                "language": "csharp",
-                "path": "./snippets/csharp.json"
-            }
-        ]
-    }
+	"name": "identical-sublime-monokai-csharp-theme-colorizer",
+	"displayName": "Identical Sublime Monokai C# theme and colorizer",
+	"version": "0.11.1",
+	"publisher": "maximetinu",
+	"repositoryURL": "https://github.com/Maximetinu/Sublime-Text-Monokai-theme-for-Visual-Studio-Code",
+	"repository": "https://github.com/Maximetinu/Sublime-Text-Monokai-theme-for-Visual-Studio-Code",
+	"galleryBanner.color": "#A6E22E",
+	"icon": "icon.png",
+	"engines": {
+		"vscode": "*"
+	},
+	"contributes": {
+		"themes": [
+			{
+				"label": "Sublime Monokai",
+				"uiTheme": "vs-dark",
+				"path": "./themes/sublime-monokai-color-theme.json"
+			}
+		],
+		"languages": [
+			{
+				"id": "csharp",
+				"extensions": [
+					".cs",
+					".csx",
+					".cake"
+				],
+				"aliases": [
+					"C# Sublime Colorizer",
+					"csharp"
+				],
+				"configuration": "./language-configuration.json"
+			}
+		],
+		"grammars": [
+			{
+				"language": "csharp",
+				"scopeName": "source.cs",
+				"path": "./syntaxes/csharp.tmLanguage.json"
+			}
+		],
+		"snippets": [
+			{
+				"language": "csharp",
+				"path": "./snippets/csharp.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "0e4a80b3-71f6-4711-9058-cfb60e9cb7d7",
+		"publisherId": "12c4af94-ffe7-4454-a32d-3c35bf807c5d",
+		"publisherDisplayName": "Maximetinu",
+		"installedTimestamp": 1619221361841
+	}
 }
