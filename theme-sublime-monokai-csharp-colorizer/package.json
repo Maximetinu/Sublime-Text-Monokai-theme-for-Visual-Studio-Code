@@ -27,7 +27,7 @@
 					".cake"
 				],
 				"aliases": [
-					"C# Sublime",
+					"C#",
 					"csharp"
 				],
 				"configuration": "./language-configuration.json"
