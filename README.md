@@ -24,7 +24,7 @@ While I put special focus on making it identical specifically for C#, it is also
 
 ### Comparison between default VSCode Monokai theme and Sublime Text's
 
-Observe the difference. Is subtle but it's there.
+Observe the difference. It's subtle but it's there.
 
 ![Default VSCode Monokai vs Sublime Text's](https://raw.githubusercontent.com/Maximetinu/Sublime-Text-Monokai-theme-for-Visual-Studio-Code/master/screenshots/default-monokai-vs-sublime-text.png  "Default VSCode Monokai vs Sublime Text's")
 
