@@ -1,6 +1,6 @@
 {
 	"name": "identical-sublime-monokai-csharp-theme-colorizer",
-	"displayName": "Identical Sublime Monokai C# theme and colorizer",
+	"displayName": "Identical Sublime Text Monokai theme",
 	"version": "1.0.0",
 	"publisher": "maximetinu",
 	"repositoryURL": "https://github.com/Maximetinu/Sublime-Text-Monokai-theme-for-Visual-Studio-Code",
@@ -27,7 +27,7 @@
 					".cake"
 				],
 				"aliases": [
-					"C# Sublime Colorizer",
+					"C# Sublime",
 					"csharp"
 				],
 				"configuration": "./language-configuration.json"
