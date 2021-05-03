@@ -16,16 +16,16 @@ While I put special focus on making it identical specifically for C#, it is also
 
 ## Screenshots (for C#)
 
-![Sublime monokai theme demo](https://github.com/Maximetinu/Sublime-Text-Monokai-theme-for-Visual-Studio-Code/raw/master/screenshots/sublime-monokai-demo.png?raw=true  "Sublime monokai theme demo")
+![Sublime monokai theme demo](https://raw.githubusercontent.com/Maximetinu/Sublime-Text-Monokai-theme-for-Visual-Studio-Code/master/screenshots/sublime-monokai-demo.png  "Sublime monokai theme demo")
 
 ### Comparison between this theme and Sublime Text's
 
-![This theme vs Sublime Text's](https://github.com/Maximetinu/Sublime-Text-Monokai-theme-for-Visual-Studio-Code/raw/master/screenshots/sublime-monokai-vs-sublime-text.png?raw=true  "This theme vs Sublime Text's")
+![This theme vs Sublime Text's](https://raw.githubusercontent.com/Maximetinu/Sublime-Text-Monokai-theme-for-Visual-Studio-Code/master/screenshots/sublime-monokai-vs-sublime-text.png  "This theme vs Sublime Text's")
 
 ### Comparison between default VSCode Monokai theme and Sublime Text's
 
 Observe the difference. Is subtle but it's there.
 
-![Default VSCode Monokai vs Sublime Text's](https://github.com/Maximetinu/Sublime-Text-Monokai-theme-for-Visual-Studio-Code/raw/master/screenshots/default-monokai-vs-sublime-text.png?raw=true  "Default VSCode Monokai vs Sublime Text's")
+![Default VSCode Monokai vs Sublime Text's](https://raw.githubusercontent.com/Maximetinu/Sublime-Text-Monokai-theme-for-Visual-Studio-Code/master/screenshots/default-monokai-vs-sublime-text.png  "Default VSCode Monokai vs Sublime Text's")
 
 **Happy coding!** now with Monokai ;)
