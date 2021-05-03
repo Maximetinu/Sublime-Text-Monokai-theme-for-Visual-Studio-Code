@@ -202,7 +202,7 @@
 		},
 		{
 			"name": "Sublime C# italic keywords",
-			"scope": "keyword.operator.arrow, keyword.other.class, keyword.other.enum, keyword.type, keyword.other.get, keyword.other.set",
+			"scope": "keyword.other.var.cs, keyword.other.namespace, keyword.operator.arrow, keyword.other.class, keyword.other.enum, keyword.type, keyword.other.get, keyword.other.set",
 			"settings": {
 				"foreground": "#66D9EF",
 				"fontStyle": "italic"
@@ -236,6 +236,13 @@
 			"scope": "entity.name.type.namespace",
 			"settings": {
 				"foreground": "#F8F8F2"
+			}
+		},
+		{
+			"name": "Sublime C# namespace declaration",
+			"scope": "entity.name.type.namespace.declaration",
+			"settings": {
+				"foreground": "#A6E22E"
 			}
 		},
 		{

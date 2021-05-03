@@ -285,7 +285,7 @@
 					"include": "#verbatim-interpolated-string"
 				},
 				{
-					"include": "#this-or-base-expression"
+					"include": "#this-or-base-or-value-expression"
 				},
 				{
 					"include": "#switch-expression"
@@ -370,10 +370,10 @@
 					"begin": "\\b(using)\\b\\s+(static)\\s+",
 					"beginCaptures": {
 						"1": {
-							"name": "keyword.other.using.cs"
+							"name": "keyword.other.using.using-static.cs"
 						},
 						"2": {
-							"name": "keyword.other.static.cs"
+							"name": "keyword.other.static.using-static.cs"
 						}
 					},
 					"end": "(?=;)",
@@ -525,7 +525,7 @@
 					"include": "#comment"
 				},
 				{
-					"name": "entity.name.type.namespace.cs",
+					"name": "entity.name.type.namespace.declaration.cs",
 					"match": "@?[_[:alpha:]][_[:alnum:]]*"
 				},
 				{
@@ -3214,7 +3214,7 @@
 				}
 			}
 		},
-		"this-or-base-expression": {
+		"this-or-base-or-value-expression": {
 			"match": "\\b(?:(base)|(this)|(value))\\b",
 			"captures": {
 				"1": {
