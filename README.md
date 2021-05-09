@@ -11,7 +11,7 @@ While I put special focus on making it identical specifically for C#, it is also
 *(yes, that's a made-up word)*
  
 - **First class support *(100% identicality guaranteed)*:** C#.  
-- **Second class support *(identical or close to identical, but not heavily tested)*:** C, C++, Python
+- **Second class support *(identical or close to identical, but not heavily tested)*:** C, C++, Python, PowerShell
 - **Third class support *(it will work and should be similar, but wasn't developed or tested. Even if it's identical it wasn't on purpose)*:** Javascript, Ruby, Java, all others.
 
 ## Screenshots (for C#)

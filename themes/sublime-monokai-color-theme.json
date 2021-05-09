@@ -585,6 +585,14 @@
 				"fontStyle": "",
 				"foreground": "#66D9EF"
 			}
+		},
+		// Second class PowerShell support
+		{
+			"name": "Sublime PowerShell Red $",
+			"scope": "punctuation.definition.variable.powershell",
+			"settings": {
+				"foreground": "#F92672"
+			}
 		}
 	],
 	"semanticHighlighting": false
