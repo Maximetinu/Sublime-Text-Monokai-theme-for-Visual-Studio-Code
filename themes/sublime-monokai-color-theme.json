@@ -70,7 +70,7 @@
 		"ports.iconRunningProcessforeground": "#ccccc7",
 		"progressBar.background": "#75715E",
 		"quickInputList.focusBackground": "#414339",
-		"selection.background": "#ccccc7",
+		"selection.background": "#75715E",
 		"settings.focusedRowBackground": "#4143395A",
 		"sideBar.background": "#1e1f1c",
 		"sideBarSectionHeader.background": "#272822",
