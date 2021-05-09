@@ -587,5 +587,5 @@
 			}
 		}
 	],
-	"semanticHighlighting": true
+	"semanticHighlighting": false
 }
