@@ -600,6 +600,13 @@
 			"settings": {
 				"foreground": "#A6E22E"
 			}
+		},
+		{
+			"name": "Sublime PowerShell Blue automatic _ variable",
+			"scope": "support.variable.automatic.powershell",
+			"settings": {
+				"foreground": "#66D9EF"
+			}
 		}
 	],
 	"semanticHighlighting": false
