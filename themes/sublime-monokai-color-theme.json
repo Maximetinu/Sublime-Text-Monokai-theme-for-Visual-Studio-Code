@@ -593,6 +593,13 @@
 			"settings": {
 				"foreground": "#F92672"
 			}
+		},
+		{
+			"name": "Sublime PowerShell Green member calls",
+			"scope": "variable.other.member.powershell",
+			"settings": {
+				"foreground": "#A6E22E"
+			}
 		}
 	],
 	"semanticHighlighting": false
