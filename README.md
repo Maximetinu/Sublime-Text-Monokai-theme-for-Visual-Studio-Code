@@ -1,5 +1,10 @@
 # Identical Sublime Text Monokai theme for Visual Studio Code
 
+
+[![Version badge](https://vsmarketplacebadge.apphb.com/version-short/maximetinu.identical-sublime-monokai-csharp-theme-colorizer.svg)](https://marketplace.visualstudio.com/items?itemName=maximetinu.identical-sublime-monokai-csharp-theme-colorizer)
+[![Downloads badge](https://vsmarketplacebadge.apphb.com/downloads-short/maximetinu.identical-sublime-monokai-csharp-theme-colorizer.svg)](https://marketplace.visualstudio.com/items?itemName=maximetinu.identical-sublime-monokai-csharp-theme-colorizer)
+[![Installs badge badge](https://vsmarketplacebadge.apphb.com/installs-short/maximetinu.identical-sublime-monokai-csharp-theme-colorizer.svg)](https://marketplace.visualstudio.com/items?itemName=maximetinu.identical-sublime-monokai-csharp-theme-colorizer)
+[![Rating badge](https://vsmarketplacebadge.apphb.com/rating-star/maximetinu.identical-sublime-monokai-csharp-theme-colorizer.svg)](https://marketplace.visualstudio.com/items?itemName=maximetinu.identical-sublime-monokai-csharp-theme-colorizer)
 [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
 
 For C#, this theme is exactly the same Monokai's theme of Sublime Text but for Visual Studio Code instead. Unlike default C# VSCode's Monokai, this is an actual, perfect and identical copy of the loved by all Sublime Text's theme. It's name is **Sublime Monokai**.  
