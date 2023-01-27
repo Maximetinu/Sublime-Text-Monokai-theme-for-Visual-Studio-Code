@@ -1,9 +1,5 @@
-<!--
-[![Version badge](https://vsmarketplacebadge.apphb.com/version-short/maximetinu.identical-sublime-monokai-csharp-theme-colorizer.svg)](https://marketplace.visualstudio.com/items?itemName=maximetinu.identical-sublime-monokai-csharp-theme-colorizer)
-[![Downloads badge](https://vsmarketplacebadge.apphb.com/downloads-short/maximetinu.identical-sublime-monokai-csharp-theme-colorizer.svg)](https://marketplace.visualstudio.com/items?itemName=maximetinu.identical-sublime-monokai-csharp-theme-colorizer)
-[![Installs badge badge](https://vsmarketplacebadge.apphb.com/installs-short/maximetinu.identical-sublime-monokai-csharp-theme-colorizer.svg)](https://marketplace.visualstudio.com/items?itemName=maximetinu.identical-sublime-monokai-csharp-theme-colorizer)
-[![Rating badge](https://vsmarketplacebadge.apphb.com/rating-star/maximetinu.identical-sublime-monokai-csharp-theme-colorizer.svg)](https://marketplace.visualstudio.com/items?itemName=maximetinu.identical-sublime-monokai-csharp-theme-colorizer)
--->
+![Visual Studio Marketplace Installs](https://shields.api-test.nl/visual-studio-marketplace/i/maximetinu.identical-sublime-monokai-csharp-theme-colorizer)
+![Visual Studio Marketplace Downloads](https://shields.api-test.nl/visual-studio-marketplace/d/maximetinu.identical-sublime-monokai-csharp-theme-colorizer)
 [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
 
 # Identical Sublime Text Monokai theme for Visual Studio Code
